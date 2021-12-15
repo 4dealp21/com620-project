@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>test</title>
+<script src='dist/bundle.js'></script>
+</head>
+<body>
+  <a-scene arjs='sourceType: webcam; videoTexture: true; debugUIEnabled: false' renderer='antialias: true; alpha: true' entity-downloader cursor='rayOrigin: mouse' raycaster='near:0.1; far: 10000'>
+      <a-assets>
+        <a-asset-item src='models/fork/scene.gltf' id='fork'></a-asset-item>
+        <a-asset-item src='models/coffee_mug/scene.gltf' id='mug'></a-asset-item>
+      </a-assets>
+      <a-camera gps-projected-camera rotation-reader wasd-controls="acceleration:900"></a-camera>
+  </a-scene>
+</body>
+</html>

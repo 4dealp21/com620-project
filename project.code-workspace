@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../Downloads/fork"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "com620-project"
+	}
+}
