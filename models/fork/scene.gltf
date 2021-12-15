@@ -1,0 +1,412 @@
+{
+  "accessors": [
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        0.2791902720928192,
+        0.5883390307426453,
+        0.026096999645233154
+      ],
+      "min": [
+        -0.055085957050323486,
+        -0.16247498989105225,
+        -0.030226999893784523
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "byteOffset": 11544,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        0.9999996423721313,
+        0.9642059803009033,
+        1.0
+      ],
+      "min": [
+        -0.999998927116394,
+        -1.0,
+        -1.0
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 4,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        1.0,
+        0.9096744060516357,
+        0.9999991059303284,
+        1.0
+      ],
+      "min": [
+        -0.9998676776885986,
+        -0.9180803894996643,
+        -1.0,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        0.990234375,
+        0.9890289306640625
+      ],
+      "min": [
+        0.00518035888671875,
+        0.00439453125
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5125,
+      "count": 4782,
+      "type": "SCALAR"
+    },
+    {
+      "bufferView": 5,
+      "componentType": 5126,
+      "count": 3,
+      "max": [
+        1.0,
+        1.0,
+        6.369750464793876e-24,
+        0.0,
+        6.123233601181349e-17,
+        1.0,
+        1.0,
+        0.0,
+        1.0,
+        4.76837158203125e-07,
+        1.0,
+        0.0,
+        1.3406750668263972e-15,
+        3.785018964919118e-09,
+        2.4109630111707035e-32,
+        1.0
+      ],
+      "min": [
+        -4.7153378091024933e-07,
+        -1.0,
+        -2.669513507421318e-23,
+        0.0,
+        0.0,
+        -2.2828104206939953e-23,
+        0.0,
+        0.0,
+        -1.0,
+        -4.76837158203125e-07,
+        1.2729232346636382e-29,
+        0.0,
+        -1.78476427667646e-15,
+        -3.785018964919118e-09,
+        -4.9197071689258574e-32,
+        1.0
+      ],
+      "type": "MAT4"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5123,
+      "count": 962,
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 4,
+      "byteOffset": 15392,
+      "componentType": 5126,
+      "count": 962,
+      "max": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "min": [
+        1.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "type": "VEC4"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "TheSitthikorn (https://sketchfab.com/TheSitthikorn)",
+      "license": "CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)",
+      "source": "https://sketchfab.com/3d-models/fork-and-knife-7e49cdc6516e4460a4739197f31d2713",
+      "title": "Fork And Knife"
+    },
+    "generator": "Sketchfab-11.59.2",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 7696,
+      "byteStride": 8,
+      "name": "shortBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 19128,
+      "byteOffset": 7696,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 7696,
+      "byteOffset": 26824,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 23088,
+      "byteOffset": 34520,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 30784,
+      "byteOffset": 57608,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 192,
+      "byteOffset": 88392,
+      "name": "floatBufferViews"
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 88584,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/Material_baseColor.png"
+    },
+    {
+      "uri": "textures/Material_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/Material_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "Material",
+      "normalTexture": {
+        "index": 2
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "JOINTS_0": 6,
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3,
+            "TEXCOORD_1": 3,
+            "TEXCOORD_2": 3,
+            "TEXCOORD_3": 3,
+            "WEIGHTS_0": 7
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        -1.0,
+        0.0,
+        0.0,
+        1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "root"
+    },
+    {
+      "children": [
+        3
+      ],
+      "matrix": [
+        1.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        2.220446049250313e-16,
+        1.0,
+        0.0,
+        0.0,
+        -1.0,
+        2.220446049250313e-16,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        1.0
+      ],
+      "name": "GLTF_SceneRootNode"
+    },
+    {
+      "children": [
+        4
+      ],
+      "name": "SK_Pickaxe_ForkKnife_1h_fork.ao_10"
+    },
+    {
+      "children": [
+        5,
+        7,
+        6
+      ],
+      "name": "GLTF_created_0"
+    },
+    {
+      "children": [
+        8
+      ],
+      "name": "GLTF_created_0_rootJoint"
+    },
+    {
+      "name": "SK_Pickaxe_ForkKnife_1h_fork.mo_9"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_7",
+      "skin": 0
+    },
+    {
+      "children": [
+        9
+      ],
+      "name": "b_AR_Root_8",
+      "rotation": [
+        -0.49999988079071045,
+        0.5000001192092896,
+        0.5000001192092896,
+        0.49999988079071045
+      ],
+      "translation": [
+        -3.785018964919118e-09,
+        0.0,
+        5.293955802010241e-25
+      ]
+    },
+    {
+      "name": "Melee_TwoHanded_Handle_7",
+      "rotation": [
+        3.0616168005906746e-17,
+        2.095885490466898e-24,
+        1.0,
+        -4.086508620617961e-40
+      ],
+      "translation": [
+        -4.440892098500626e-16,
+        2.117582368135751e-22,
+        -2.4651895941316926e-32
+      ]
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "skins": [
+    {
+      "inverseBindMatrices": 5,
+      "joints": [
+        5,
+        8,
+        9
+      ],
+      "skeleton": 5
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

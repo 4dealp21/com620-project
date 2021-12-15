@@ -1,0 +1,11 @@
+Model Information:
+* title:	Coffee Mug
+* source:	https://sketchfab.com/3d-models/coffee-mug-246975ac25734b8282ee020dd86b2607
+* author:	skaljowsky (https://sketchfab.com/skaljowsky)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Coffee Mug" (https://sketchfab.com/3d-models/coffee-mug-246975ac25734b8282ee020dd86b2607) by skaljowsky (https://sketchfab.com/skaljowsky) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

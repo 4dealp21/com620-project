@@ -1,0 +1,11 @@
+Model Information:
+* title:	Fork And Knife
+* source:	https://sketchfab.com/3d-models/fork-and-knife-7e49cdc6516e4460a4739197f31d2713
+* author:	TheSitthikorn (https://sketchfab.com/TheSitthikorn)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Fork And Knife" (https://sketchfab.com/3d-models/fork-and-knife-7e49cdc6516e4460a4739197f31d2713) by TheSitthikorn (https://sketchfab.com/TheSitthikorn) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
