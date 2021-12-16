@@ -127,6 +127,8 @@ AFRAME.registerComponent('entity-downloader',  {
                         y:90,
                         z:0
                     });
+
+                    // Creating box for the sign
                     boxEntity.setAttribute('scale', {
                         x:length+4,
                         y:2.5,
@@ -141,6 +143,7 @@ AFRAME.registerComponent('entity-downloader',  {
                         color: '#50846e'
                     });
 
+                    // Creating Cylinder to use as support for the sign
                     cylinderEntity.setAttribute('height', 12);
                     cylinderEntity.setAttribute('radius-bottom', 3);
                     cylinderEntity.setAttribute('radius-top', 3);
