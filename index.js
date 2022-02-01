@@ -28,7 +28,7 @@ AFRAME.registerComponent('entity-downloader',  {
             });
                 
             // Get the pois
-            const response = await fetch(`https://hikar.org/webapp/map/all?bbox=${gpspos.coords.longitude-0.0055},${gpspos.coords.latitude-0.0025},${gpspos.coords.longitude+0.0055},${gpspos.coords.latitude+0.0025}`);
+            const response = await fetch(`https://hikar.org/webapp/map/all?bbox=${gpspos.coords.longitude-0.055},${gpspos.coords.latitude-0.025},${gpspos.coords.longitude+0.055},${gpspos.coords.latitude+0.025}`);
             const json = await response.json();
 
             
